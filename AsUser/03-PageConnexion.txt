@@ -1,0 +1,22 @@
+create_a_connexion_page
+
+## Description
+En tant qu'utilisateur, je veux avoir la possibilité de me connecter si j'ai un compte
+
+## Fonctionnalités
+- Renseigner ses informations de connexion
+- Être redirigé(e) si iel clique sur le bouton pour valider sa connexion
+- Être redirigé(e) si iel clique sur le bouton pour revenir sur la page d'inscription
+- Être redirigé(e) si iel clique sur le lien car iel a oublié sont mot de passe
+
+## Critères de validation
+- Text1
+- Text2
+- Text3
+- .....
+
+## Tâches
+- [ ] Tache1
+- [ ] Tache2
+- [ ] Tache3
+- [ ] ......

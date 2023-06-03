@@ -5,6 +5,7 @@ Listes :
   * page d'accueil 
   * page d'inscription
   * page de connexion
+  * page de modification de mot de passe
   * page fiche de dégustation (pour les préférences)
   * page profil de dégustation
   * page atelier de création
