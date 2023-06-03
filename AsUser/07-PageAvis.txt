@@ -1,0 +1,28 @@
+create_page_avis
+
+## Description
+En tant qu'utilisateur/trice, je veux pouvoir donner mon avis sur cet atelier en remplissant un formulaire ou choisir de ne pas le faire
+
+## Fonctionnalités
+- Pouvoir remplir des champs pour donner son avis
+- Pouvoir mettre une note
+- Cliquer sur un bouton pour valider et transmettre cet avis
+- Avoir le choix de ne pas donner sur avis et quitter la page
+
+## Critères de validation
+- Les champs "Nom, Prénom et Email" doivent déjà être pré-remplis car déjà connecté(e)
+- Pouvoir écrire dans les champs si besoin
+
+- Pouvoir cliquer sur la barre de note pour attribuer une note
+- (Optionnel) Pouvoir faire glisser la barre de note pour attribuer une note dynamiquement
+
+- Lorsque le bouton "Envoyer" est cliqué, si les champs ne sont pas remplis (qu'importe les champs), iel ne peut pas aller sur la page suivante et les champs obligatoires deviennent rouge.
+- Lorsque le bouton "Envoyer" est cliqué, les données sont envoyées à la base de données
+- Lorsque le bouton "Envoyer" est cliqué, un mail est envoyé à l'entreprise
+- Si l'utilisateur/trice clique sur "Une prochaine fois peut-être", iel est redirigée vers la page listant les vins qui correspondrait à ses préférences.
+
+## Tâches
+- [ ] Importer component navbar
+- [ ] Importer component formulaire et tous les rendre obligatoire
+- [ ] Tache3
+- [ ] ......
