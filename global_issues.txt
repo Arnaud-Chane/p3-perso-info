@@ -1,6 +1,7 @@
 Listes : 
 
 - créer une route pour :
+  En tant qu'utilisateur/trice :
   * page d'accueil 
   * page d'inscription
   * page de connexion
@@ -9,9 +10,26 @@ Listes :
   * page atelier de création
   * page avis
   * page ecommerce
+  * page de description d'un vin
   * page modification de membre
   * page erreur 404
   * page erreur 500
+
+  En tant qu'administrateur/trice :
+  * page d'accueil avec tous les onglets/sections
+  * page liste de tous membres
+  * page de membres pour modifier (peut être même page que celui en tant qu'utilisateur/trice)
+  * page de membres pour créer (peut être même page que celui en tant qu'utilisateur/trice, faut juste changer bouton)
+
+  * page liste des vins
+  * page de modification description d'un vin (différente de celle user)
+  * page création d'un vin (qui peut être la même que celle pour modif vin, faut juste changer bouton)
+
+  * page de fiche de dégustation de modif (différentes de celle user) 
+
+  * page liste de profil de dégustation
+  * page de modification de profil de dégustation
+
 
 
 - Créer un component formulaire 1 ligne pour le réutiliser autant de fois qu'on veut (plus simple pour envoyer en base de données ce qu'on veut précisément)
