@@ -38,6 +38,8 @@ Listes :
 
 - Créer un component slide (fiche de dégustation) pour le réutiliser autant de fois qu'on veut sur cette même page
 
+- Créer un deuxième component slide (fiche de dégustation) imbriqué avec celui du component formulaire pour modif l'intitulé du slide depuis admin
+
 - Créer un component formulaire déroulant (atelier de création) pour le réutiliser autant de fois qu'on veut sur cette même page dans Cépage et dosage
 
 - Créer un component navbar (à partir de la page profil de dégustation)
