@@ -1,0 +1,47 @@
+Listes : 
+
+- créer une route pour :
+  * page d'accueil 
+  * page d'inscription
+  * page de connexion
+  * page fiche de dégustation (pour les préférences)
+  * page profil de dégustation
+  * page atelier de création
+  * page avis
+  * page ecommerce
+  * page modification de membre
+  * page erreur 404
+  * page erreur 500
+
+
+- Créer un component formulaire 1 ligne pour le réutiliser autant de fois qu'on veut (plus simple pour envoyer en base de données ce qu'on veut précisément)
+
+- Créer un component bouton pour le réutiliser autant de fois qu'on veut (On utilisera un id en particulier pour celui de la page d'accueil)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

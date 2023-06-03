@@ -1,0 +1,25 @@
+create_a_signup_page
+
+## Description
+En tant qu'utilisateur, je veux avoir la possibilité de m'inscrire si c'est la première fois que je participe à l'atelier ou que j'arrive sur le site
+Ou d'être redirigé(e) vers la page de connexion si j'ai déjà un compte
+
+## Fonctionnalités
+- Pouvoir renseigner les informations de la personne
+- Il faut qu'il y ait des champs obligatoires et donc si non remplis, l'utilisateur/trice ne pourra pas être redirigé(e) si elle clique sur le bouton "créer un compte".
+- Pouvoir enregistrer dans la base de données ces informations après avoir cliqué sur le bouton "créer un compte"
+- Pouvoir cliquer sur un bouton et être redirigé(e) vers la page de connexion
+
+
+## Critères de validation
+- Pouvoir écrire dans les champs du formulaire d'inscription
+- Avoir un retour (une fenêtre/popup) qui confirme que mes informations sont enregistrées si je clique sur le bouton "créer un compte".
+- Avoir un retour (une fenêtre/popup) qui m'annonce que certains champs sont obligatoires, qu'ils doivent être remplis avec les types d'informations attendues et que je ne peux pas passer à l'étape suivante si je clique sur le bouton "créer un compte".
+- Être redirigé(e) vers une page de connexion si je clique sur un bouton ("Déjà inscrit(e)?")
+
+## Tâches
+- [ ] 
+- [ ] Tache2
+- [ ] Tache3
+- [ ] ......
+

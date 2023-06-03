@@ -1,0 +1,21 @@
+create_a_home_page
+
+## Description
+En tant qu'utilisateur, je veux arriver sur une page d'accueil qui m'explique le concept du site et dans notre situation, celui de l'atelier.
+
+## Fonctionnalités
+- Voir le logo de l'entreprise
+- Voir une description simple de l'atelier et du site
+- Passer sur la page suivante d'un simple click sur un boutton
+
+## Critères de validation
+- Text1
+- Text2
+- Text3
+
+## Tâches
+- [ ] Importer le logo du site
+- [ ] Importer le texte qui décrit l'atelier et le site
+- [ ] Placer un bouton de redirection vers la page d'inscription
+- [ ] Styliser la page
+

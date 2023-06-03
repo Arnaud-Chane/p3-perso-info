@@ -1,0 +1,107 @@
+
+Template Issue :
+
+## Description
+En tant qu'utilisateur, je veux....
+En tant qu'administrateur, je veux....
+
+## Fonctionnalités
+- Fonctionnalité1
+- Fonctionnalité2
+- Fonctionnalité3
+- ....
+
+## Critères de validation
+- Text1
+- Text2
+- Text3
+- .....
+
+## Tâches
+- [ ] Tache1
+- [ ] Tache2
+- [ ] Tache3
+- [ ] ......
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+
+Template Bug :
+
+## Description du bug
+
+En tant qu'utilisateur, lorsque je ...
+En tant qu'administrateur, lorsque je ...
+
+## Comportement normalement attendu
+
+En tant qu'utilisateur, je devrais ...
+En tant qu'administrateur, je devrais ...
+
+## Etape pour reproduire le bug
+
+[Please provide a list of steps to reproduce the issue.]
+
+1. Step 1
+2. Step 2
+3. Step 3
+
+## Screenshots
+
+[Please provide any relevant screenshots if applicable.]
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+
+
+Exemple Issues :
+
+create_job_card
+
+## Description
+En tant qu’administrateur, je veux pouvoir réutiliser une carte qui décrive une offre d'emploi plusieurs fois si besoin.
+
+## Fonctionnalités
+Lorsque l'administrateur voudra réutiliser une carte qui décrive une offre d'emploi, il/elle pourra la réutiliser là il/elle le voudra.
+
+## Critères de validation
+Lorsque l'utilisateur sera sur la page de recherche, il/elle verra une carte qui décrit une offre d'emploi .
+
+## Tâches
+
+- [ ] Il nous faudra créer une carte qui décrive une offre d'emploi
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+
+Exemple Bug :
+
+## Description du bug
+
+En tant qu'utilisateur, lorsque je suis sur la page des profils de dégustation, je ne vois rien
+
+## Comportement normalement attendu
+
+En tant qu'utilisateur, je devrais voir une fiche de dégustation complète et détaillée
+
+## Etape pour reproduire le bug
+
+1. Je me connecte ou je me crée un compte
+2. Je complète mes préférences
+3. J'arrive sur la page de profil de dégustation
+
+## Screenshots
+
+[Please provide any relevant screenshots if applicable.]

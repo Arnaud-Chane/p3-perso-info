@@ -1,0 +1,24 @@
+Page Home;
+
+## Description
+En tant qu'utilisateur, je veux....
+En tant qu'administrateur, je veux....
+
+## Fonctionnalités
+- Fonctionnalité 1
+- Fonctionnalité 2
+- Fonctionnalité 3
+- ....
+
+## Critères de validation
+- Text 1
+- Text 2
+- Text 3
+- .....
+
+## Tâches
+- [ ] Tache 1
+- [ ] Tache 2
+- [ ] Tache 3
+- [ ] ......
+
