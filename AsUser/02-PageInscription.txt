@@ -18,8 +18,9 @@ Ou d'être redirigé(e) vers la page de connexion si j'ai déjà un compte
 - Être redirigé(e) vers une page de connexion si je clique sur un bouton ("Déjà inscrit(e)?")
 
 ## Tâches
-- [ ] 
-- [ ] Tache2
-- [ ] Tache3
-- [ ] ......
-
+- [ ] Créer un component formulaire d'une ligne pour le réutiliser autant de fois qu'on veut
+- [ ] Rendre certain champs obligatoire
+- [ ] Ajouter un bouton pour rediriger l'utilisateur/trice vers la page suivante
+- [ ] Ajouter un retour (une fenêtre/popup) qui confirme que mes informations sont enregistrées
+- [ ] Envoyer les informations rentrées par l'utilisateur/trice dans la base de données au moment de la soumission du formulaire
+- [ ] Ajouter un lien pour rediriger l'utilisateur/trice vers la page de connexion

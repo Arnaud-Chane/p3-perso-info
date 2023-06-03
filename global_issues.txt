@@ -33,6 +33,7 @@ Listes :
 
 
 - Créer un component formulaire 1 ligne pour le réutiliser autant de fois qu'on veut (plus simple pour envoyer en base de données ce qu'on veut précisément) =>> surtout utilisé dans la partie admin
+(Faire en sorte d'ajouter un espace prop pour rendre obligatoire ou non ce component à son instance)
 
 - Créer un component bouton pour le réutiliser autant de fois qu'on veut (On utilisera un id en particulier pour celui de la page d'accueil)
 
