@@ -1,0 +1,22 @@
+create_page_degustation
+
+## Description
+En tant qu'utilisateur, je veux pouvoir renseigner mes préférences graduellement afin d'affiner mon profil de dégustation.
+
+## Fonctionnalités
+- Pouvoir définir les préférences de l'utilisateur/trice en faisant glisser une barre d'évaluation
+- Pouvoir enregistrer les valeurs de chaque préférence dans la base de données
+- Être redirigé(e) vers la page de profil de dégustation après avoir cliqué sur la bouton "Terminer"
+
+
+## Critères de validation
+- L'utilisateur/trice peut faire glisser une barre d'évaluation
+- En fonction de la position de la barre d'évaluation, il faut qu'iel voit un nombre comme feedback
+- Lorsque l'utilisateur/trice clique sur le bouton "Terminer", les informations de préférences sont bien envoyées et enregistrées dans la base de données
+- Lorsque l'utilisateur/trice clique sur le bouton "Terminer", iel est redirigé(e) vers la page de profil de dégustation
+
+## Tâches
+- [ ] Importer component slide et lui attribuer le goût défini par l'administrateur/trice
+- [ ] Envoyer dans la base de données les informations et les lier à l'utilisateur/trice
+- [ ] Importer component bouton et lui attribuer "Terminer"
+- [ ] Lier au bouton "Terminer" redirection pour envoyer l'utilisateur/trice à la page de profil de dégustation 
