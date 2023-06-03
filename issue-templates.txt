@@ -2,8 +2,8 @@
 Template Issue :
 
 ## Description
-En tant qu'utilisateur, je veux....
-En tant qu'administrateur, je veux....
+En tant qu'utilisateur/trice, je veux....
+En tant qu'administrateur/trice, je veux....
 
 ## Fonctionnalités
 - Fonctionnalité1
@@ -33,13 +33,13 @@ Template Bug :
 
 ## Description du bug
 
-En tant qu'utilisateur, lorsque je ...
-En tant qu'administrateur, lorsque je ...
+En tant qu'utilisateur/trice, je veux....
+En tant qu'administrateur/trice, je veux....
 
 ## Comportement normalement attendu
 
-En tant qu'utilisateur, je devrais ...
-En tant qu'administrateur, je devrais ...
+En tant qu'utilisateur/trice, je devrais ...
+En tant qu'administrateur/trice, je devrais ...
 
 ## Etape pour reproduire le bug
 
@@ -70,13 +70,13 @@ Exemple Issues :
 create_job_card
 
 ## Description
-En tant qu’administrateur, je veux pouvoir réutiliser une carte qui décrive une offre d'emploi plusieurs fois si besoin.
+En tant qu'administrateur/trice, je veux pouvoir réutiliser une carte qui décrive une offre d'emploi plusieurs fois si besoin.
 
 ## Fonctionnalités
-Lorsque l'administrateur voudra réutiliser une carte qui décrive une offre d'emploi, il/elle pourra la réutiliser là il/elle le voudra.
+Lorsque l'administrateur/trice voudra réutiliser une carte qui décrive une offre d'emploi, il/elle pourra la réutiliser là il/elle le voudra.
 
 ## Critères de validation
-Lorsque l'utilisateur sera sur la page de recherche, il/elle verra une carte qui décrit une offre d'emploi .
+Lorsque l'utilisateur/trice sera sur la page de recherche, il/elle verra une carte qui décrit une offre d'emploi .
 
 ## Tâches
 
@@ -91,11 +91,11 @@ Exemple Bug :
 
 ## Description du bug
 
-En tant qu'utilisateur, lorsque je suis sur la page des profils de dégustation, je ne vois rien
+En tant qu'utilisateur/trice, lorsque je suis sur la page des profils de dégustation, je ne vois rien
 
 ## Comportement normalement attendu
 
-En tant qu'utilisateur, je devrais voir une fiche de dégustation complète et détaillée
+En tant qu'utilisateur/trice, je devrais voir une fiche de dégustation complète et détaillée
 
 ## Etape pour reproduire le bug
 

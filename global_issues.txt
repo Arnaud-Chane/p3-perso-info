@@ -44,7 +44,9 @@ Listes :
 
 - Créer un deuxième component slide (fiche de dégustation) imbriqué avec celui du component formulaire pour modif l'intitulé du slide depuis admin
 
-- Créer un component formulaire déroulant (atelier de création) pour le réutiliser autant de fois qu'on veut sur cette même page dans Cépage et dosage
+- Créer un component menu déroulant (atelier de création) pour le réutiliser autant de fois qu'on veut sur cette même page dans Cépage et dosage
+
+- Créer un component ajout pour appeler un component en fonction de la page (ex: sur page atelier création, capable d'appeler component menu déroulant pour cépage)
 
 - Créer un component navbar (à partir de la page profil de dégustation)
 

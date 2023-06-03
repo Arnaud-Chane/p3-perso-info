@@ -1,7 +1,7 @@
 create_a_signup_page
 
 ## Description
-En tant qu'utilisateur, je veux avoir la possibilité de m'inscrire si c'est la première fois que je participe à l'atelier ou que j'arrive sur le site
+En tant qu'utilisateur/trice, je veux avoir la possibilité de m'inscrire si c'est la première fois que je participe à l'atelier ou que j'arrive sur le site
 Ou d'être redirigé(e) vers la page de connexion si j'ai déjà un compte
 
 ## Fonctionnalités

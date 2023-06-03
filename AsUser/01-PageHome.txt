@@ -1,7 +1,7 @@
 create_a_home_page
 
 ## Description
-En tant qu'utilisateur, je veux arriver sur une page d'accueil qui m'explique le concept du site et dans notre situation, celui de l'atelier.
+En tant qu'utilisateur/trice, je veux arriver sur une page d'accueil qui m'explique le concept du site et dans notre situation, celui de l'atelier.
 
 ## Fonctionnalités
 - Voir le logo de l'entreprise

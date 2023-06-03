@@ -1,7 +1,7 @@
 create_page_degustation
 
 ## Description
-En tant qu'utilisateur, je veux pouvoir renseigner mes préférences graduellement afin d'affiner mon profil de dégustation.
+En tant qu'utilisateur/trice, je veux pouvoir renseigner mes préférences graduellement afin d'affiner mon profil de dégustation.
 
 ## Fonctionnalités
 - Pouvoir définir les préférences de l'utilisateur/trice en faisant glisser une barre d'évaluation

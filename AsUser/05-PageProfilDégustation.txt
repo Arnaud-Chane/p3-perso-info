@@ -1,10 +1,10 @@
 create_page_profil_degustation
 
 ## Description
-En tant qu'utilisateur, je veux voir le profil de dégustation qui correspond à mes préférences.
-En tant qu'utilisateur, je veux pouvoir revenir sur mes préférences si le profil ne correspond pas.
-En tant qu'utilisateur, je veux pouvoir aller vers l'atelier de création.
-En tant qu'utilisateur, je veux pouvoir aller vers la liste des vins qui correspond à mes préférences.
+En tant qu'utilisateur/trice, je veux voir le profil de dégustation qui correspond à mes préférences.
+En tant qu'utilisateur/trice, je veux pouvoir revenir sur mes préférences si le profil ne correspond pas.
+En tant qu'utilisateur/trice, je veux pouvoir aller vers l'atelier de création.
+En tant qu'utilisateur/trice, je veux pouvoir aller vers la liste des vins qui correspond à mes préférences.
 
 ## Fonctionnalités
 - Montrer un profil de dégustation

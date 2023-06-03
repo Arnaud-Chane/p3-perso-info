@@ -1,0 +1,29 @@
+create_page_atelier_creation
+
+## Description
+En tant qu'utilisateur/trice, je veux choisir les cépages ainsi que leur dosage pour que créer le vin que je souhaite.
+En tant qu'utilisateur/trice, je veux être guidé(e) avec une recette 
+
+## Fonctionnalités
+- Pouvoir choisir dans un menu déroulant le cépage que je veux
+- Pouvoir inscrire le dosage pour chaque cépage que j'aurai choisi
+- Avoir une recette pour guider l'utilisateur/trice dans l'atelier
+- Pouvoir enregistrer la recette que l'utilisateur/trice viendra de créer
+
+## Critères de validation
+- L'utilisateur/trice peut choisir dans un menu déroulant le cépage qu'iel désire 
+- L'utilisateur/trice peut inscrire le dosage pour chaque cépage qu'iel aura choisi
+- L'utilisateur/trice peut ajouter autant de cépage qu'iel le désire
+- Une recette est bien affichée pour le/la guider
+- Être capable d'enregistrer ses recettes en cliquant sur un bouton
+- Afficher retour/feedback pour confirmer à l'utilisateur/trice que l'enregistrement a bien été pris en compte
+- La recette est bien enregistrée dans la base de donnée
+
+## Tâches
+- [ ] Importer la barre de navigation
+- [ ] Importer component menu déroulant
+- [ ] Importer component ajout et le lier au component menu déroulant
+- [ ] Importer component bouton 
+- [ ] Lier retour/feedback pour confirmer à l'utilisateur/trice que l'enregistrement a bien été pris en compte
+- [ ] Lier redirection vers la page Avis
+

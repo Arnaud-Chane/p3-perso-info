@@ -1,7 +1,7 @@
 create_a_connexion_page
 
 ## Description
-En tant qu'utilisateur, je veux avoir la possibilité de me connecter si j'ai un compte
+En tant qu'utilisateur/trice, je veux avoir la possibilité de me connecter si j'ai un compte
 
 ## Fonctionnalités
 - Renseigner ses informations de connexion
