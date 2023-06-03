@@ -18,10 +18,19 @@ Listes :
 
 - Créer un component bouton pour le réutiliser autant de fois qu'on veut (On utilisera un id en particulier pour celui de la page d'accueil)
 
+- Créer un component slide (fiche de dégustation) pour le réutiliser autant de fois qu'on veut sur cette même page
 
+- Créer un component formulaire déroulant (atelier de création) pour le réutiliser autant de fois qu'on veut sur cette même page dans Cépage et dosage
 
+- Créer un component navbar (à partir de la page profil de dégustation)
 
+- Créer un menu burger avec lien de redirection
 
+- Créer un component système de notes (avec les étoiles)
+
+- Créer une fonction modale simple à personnaliser et réutilisable
+
+- Créer un component de parcours avec lien de redirection sur toutes les pages (avec impossibilité de choisir des étapes pas encore atteintes)
 
 
 
