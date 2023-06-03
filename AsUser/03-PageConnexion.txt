@@ -10,10 +10,12 @@ En tant qu'utilisateur, je veux avoir la possibilité de me connecter si j'ai un
 - Être redirigé(e) si iel clique sur le lien car iel a oublié sont mot de passe
 
 ## Critères de validation
-- Text1
-- Text2
-- Text3
-- .....
+- Si les champs ne sont pas remplis, indiquer que tous les champs sont obligatoires
+- Si les champs ne sont pas remplis par le type d'information attendues, indiquer qu'il faut les modifier
+- Si les informations ne sont pas correctes (mail n'existe pas,  mot de passe pas bonne combinaison avec l'email), indiquer qu'il faut les modifier
+- Si bonne combinaison d'email et mot de passe, redirigé l'utilisateur/trice vers la page suivante en étant connecté(e) à son compte
+- Redirigé l'utilisateur/trice vers la page d'inscription si iel clique sur le bouton d'inscription
+- Redirigé l'utilisateur/trice vers la page de modification du mot de passe
 
 ## Tâches
 - [ ] Tache1
