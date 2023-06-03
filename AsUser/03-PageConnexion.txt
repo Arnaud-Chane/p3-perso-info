@@ -18,7 +18,8 @@ En tant qu'utilisateur, je veux avoir la possibilité de me connecter si j'ai un
 - Redirigé l'utilisateur/trice vers la page de modification du mot de passe
 
 ## Tâches
-- [ ] Tache1
-- [ ] Tache2
+- [ ] Importer le logo
+- [ ] Importer le component formulaire pour email et mot de passe
+- [ ] Rendre les deux champs obligatoire
 - [ ] Tache3
 - [ ] ......
