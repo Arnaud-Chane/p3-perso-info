@@ -19,7 +19,12 @@ En tant qu'utilisateur, je veux avoir la possibilité de me connecter si j'ai un
 
 ## Tâches
 - [ ] Importer le logo
-- [ ] Importer le component formulaire pour email et mot de passe
+- [ ] Importer le component formulaire pour email
+- [ ] Importer le component formulaire pour mot de passe
 - [ ] Rendre les deux champs obligatoire
-- [ ] Tache3
-- [ ] ......
+- [ ] Importer le component bouton pour connexion
+- [ ] Lier ce bouton à un retour/feedback pour l'utilisateur/trice
+- [ ] Rediriger l'utilisateur/trice à la page Fiche dégustation à la suite du feedback précédent (après un laps de temps sans manipulation de l'utilisateur/trice)
+- [ ] Importer le component bouton pour inscription
+- [ ] Lier redirection vers la page d'inscription au bouton "Inscription"
+- [ ] Lier redirection vers la page dde modification de mot de passe à l'écriture "Mot de passe oublié ?"
