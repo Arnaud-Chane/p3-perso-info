@@ -3,7 +3,6 @@ Template Issue :
 
 ## Description
 En tant qu'utilisateur/trice, je veux....
-En tant qu'administrateur/trice, je veux....
 
 ## Fonctionnalités
 - Fonctionnalité1

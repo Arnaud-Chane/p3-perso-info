@@ -1,8 +1,7 @@
-Page Home;
+NomDeLeFeature
 
 ## Description
 En tant qu'utilisateur, je veux....
-En tant qu'administrateur, je veux....
 
 ## Fonctionnalités
 - Fonctionnalité 1
