@@ -1,0 +1,23 @@
+create_page_description_vin
+
+## Description
+En tant qu'utilisateur/trice, je veux voir sur la page de description du vin, une photo, le nom de ce vin et sa description
+
+## Fonctionnalités
+- Exposer le nom du vin
+- Exposer une photo du vin
+- Exposer une description du vin
+- Pouvoir revenir vers la page de sélection de vins
+- Pouvoir revenir vers des pages précédentes depuis le menu de navigation
+
+## Critères de validation
+- Voir le nom du vin
+- Voir une photo du vin
+- Voir une description du vin
+- Pouvoir revenir vers la page de sélection de vins en cliquant sur un bouton "Revenir à la liste"
+- Pouvoir revenir vers des pages précédentes depuis le menu de navigation en cliquant sur le menu de navigation
+
+## Tâches
+- [ ] Importer component navbar
+- [ ] Importer component bouton et nommer "Revenir à la liste"
+- [ ] Récupérer les informations du vin sélectionné par l'utilisateur/trice
