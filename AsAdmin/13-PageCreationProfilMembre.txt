@@ -1,0 +1,28 @@
+create_page_admin_create_member
+
+## Description
+En tant qu'administrateur/trice, je veux pouvoir créer un profil pour un nouveau membre si iel ne peut pas lui même
+
+## Fonctionnalités
+- Pouvoir renseigner les informations de la personne
+- Il faut qu'il y ait des champs obligatoires et donc si non remplis, l'utilisateur/trice ne pourra pas être redirigé(e) si elle clique sur le bouton "créer un compte".
+- Pouvoir enregistrer dans la base de données ces informations après avoir cliqué sur le bouton "créer un compte"
+- Pouvoir cliquer sur un bouton et être redirigé(e) vers la page de connexion
+
+
+## Critères de validation
+- Pouvoir écrire dans les champs du formulaire d'inscription
+- Avoir un retour (une fenêtre/popup) qui confirme que mes informations sont enregistrées si je clique sur le bouton "créer un compte".
+- Avoir un retour (une fenêtre/popup) qui m'annonce que certains champs sont obligatoires, qu'ils doivent être remplis avec les types d'informations attendues et que je ne peux pas passer à l'étape suivante si je clique sur le bouton "créer un compte".
+
+## Tâches
+- [ ] Importer component barre de navigation
+- [ ] Importer component formulaire
+- [ ] Importer component bouton
+- [ ] Rendre certain champs obligatoire (nom, prénom, mot de passe, email)
+- [ ] Lier redirection vers la page liste des membres si on clique sur le bouton "Créer le compte"
+- [ ] Ajouter un retour (une fenêtre/popup) qui confirme que les informations sont enregistrées
+- [ ] Envoyer les informations rentrées par l'administrateur/trice dans la base de données au moment de la soumission du formulaire
+- [ ] Ajouter un lien pour rediriger l'utilisateur/trice vers la page de connexion
+
+
