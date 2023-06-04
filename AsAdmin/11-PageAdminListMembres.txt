@@ -1,0 +1,42 @@
+create_page_admin_list_members
+
+## Description
+En tant qu'administrateur/trice, je veux voir la liste de l'intégralité des membres inscrits
+En tant qu'administrateur/trice, je veux pouvoir retrouver un membre en particulier en écrivant soit son nom, son prénom ou son email
+En tant qu'administrateur/trice, je veux pouvoir créer un membre
+En tant qu'administrateur/trice, je veux pouvoir aller sur n'importe quelle section depuis la barre de navigation
+
+## Fonctionnalités
+- Pouvoir se rendre sur n'importe quelle section depuis la barre de navigation
+- Voir la liste de l'intégralité des membres inscrits avec chacun(e) son nom, prénom, email et date de naissance
+- Pouvoir scroller pour faire défiler tous les membres si la liste est longue
+- Filtrer la liste pour retrouver un membre en inscrivant soit son nom, son prénom ou son email
+- Créer un membre en cliquant sur un bouton
+- Cliquer sur un membre pour être redirigé(e) vers son profil
+
+## Critères de validation
+- Cliquer sur la barre de navigation pour afficher les sections
+- Cliquer sur le nom des sections pour être redirigé(e) vers la page de cette section
+
+- Au chargement de la page, voir l'intégralité de la liste des membres avec uniquement leur nom, prénom, date de naissance et email
+
+- Avoir un barre de recherche
+- Si on entre un nom, un prénom ou un email dans la barre de recherche, la liste des membres est filtrée pour ne montrer uniquement que le ou les membres correspondant
+
+- Avoir un bouton renommé "Créer"
+- Si l'administrateur/trice clique sur le bouton, iel est redirigé(e) vers la page d'inscription de membres
+
+- Si l'administrateur/trice clique sur un nom de membre, iel est redirigé(e) vers le profil de ce membre
+
+## Tâches
+- [ ] Importer component barre de navigation
+- [ ] Récupérer et afficher la liste de tous les membres inscrits
+- [ ] Mettre en place un scroll vertical pour la liste des membres
+- [ ] Lier redirection vers la page profil de ce membre
+
+- [ ] Importer component barre de recherche
+- [ ] Mettre un système de filtre afin d'affiner la liste 
+
+- [ ] Importer component bouton et le renommer "Créer"
+- [ ] Lier redirection vers la page d'inscription de membres
+
