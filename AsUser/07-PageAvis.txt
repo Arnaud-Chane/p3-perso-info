@@ -23,6 +23,8 @@ En tant qu'utilisateur/trice, je veux pouvoir donner mon avis sur cet atelier en
 
 ## Tâches
 - [ ] Importer component navbar
-- [ ] Importer component formulaire et tous les rendre obligatoire
-- [ ] Tache3
-- [ ] ......
+- [ ] Importer component formulaire et les tous rendre obligatoire
+- [ ] Importer component système de notes 
+- [ ] Importer component bouton et nommer "Envoyer"
+- [ ] Lier bouton ainsi que lien "Une prochaine fois peut-être" => redirection vers la  page listant les vins qui correspondrait à ses préférences
+- [ ] Indiquer que les champs doivent être correctement remplis (ex: surlignement en rouge)

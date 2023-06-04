@@ -42,7 +42,7 @@ Listes :
 
 - Créer un component slide (fiche de dégustation) pour le réutiliser autant de fois qu'on veut sur cette même page
 
-- Créer un deuxième component slide (fiche de dégustation) imbriqué avec celui du component formulaire pour modif l'intitulé du slide depuis admin
+- Créer un deuxième component slide (fiche de dégustation) imbriqué avec celui du component formulaire pour modif l'intitulé du slide depuis admin (C'est vraiment le même >> ce qui change c'est le fait de pouvoir dir que c'est péche et pas pomme)
 
 - Créer un component menu déroulant (atelier de création) pour le réutiliser autant de fois qu'on veut sur cette même page dans Cépage et dosage
 
