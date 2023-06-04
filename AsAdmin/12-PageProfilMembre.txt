@@ -1,0 +1,36 @@
+create_page_modif_profil_member
+
+## Description
+En tant qu'utilisateur/trice, je veux pouvoir changer mes informations liées à mon profil
+En tant qu'administrateur/trice, je veux pouvoir changer les informations liées au profil d'un(e) membre
+
+## Fonctionnalités
+- Pouvoir se rendre sur n'importe quelle section depuis la barre de navigation
+- Pouvoir changer les informations liées à un compte en remplissant certain champs
+- Les champs Nom, Prénom, Email, Mot de passe, Confirmation de mot de passe doivent être remplis
+- Cliquer sur un bouton "Mettre à jour" pour mettre à jour les informations de la page actuellement
+
+## Critères de validation
+- Cliquer sur la barre de navigation pour afficher les sections
+- Cliquer sur le nom des sections pour être redirigé(e) vers la page de cette section
+
+- Au chargement de la page, voir l'intégralité des informations liées au membre (pré-remplir les valeurs des components formulaire par les valeurs du compte membre)
+
+- impossibilité de mettre à jour les informations si les champs Nom, Prénom, Email, Mot de passe, Confirmation de mot de passe ne sont pas remplis
+- Les champs Mot de passe et Confirmation de mot de passe doivent être identiques pour que la soumission de la page puisse être acceptée
+- Être redirigé(e) vers la page liste des membres si on clique sur le bouton "Mettre à jour"
+
+## Tâches
+- [ ] Importer component barre de navigation
+- [ ] Importer component formulaire
+- [ ] Importer component bouton
+
+- [ ] Récupérer les informations du profil membre
+- [ ] Remplacer la valeur de chaque component formulaire par celle lié par le profil membre
+
+- [ ] Envoyer les informations de tous champs des components formulaire à la base de données uniquement si on clique sur bouton "Mettre à jour"
+- [ ] Lier redirection vers la page liste des membres si on clique sur le bouton "Mettre à jour"
+
+- [ ] Rendre obligatoire le fait que les champs Nom, Prénom, Email, Mot de passe, Confirmation de mot de passe doivent être remplis pour que la soumission de la page puisse être acceptée
+- [ ] Rendre obligatoire le fait que les champs Mot de passe et Confirmation de mot de passe doivent être identiques pour que la soumission de la page puisse être acceptée
+
