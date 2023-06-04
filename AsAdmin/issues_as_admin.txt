@@ -1,23 +1,24 @@
 NomDeLeFeature
 
 ## Description
-En tant qu'administrateur/trice, je veux....
+En tant qu'administrateur/trice, je veux ....
 
 ## Fonctionnalités
-- Fonctionnalité 1
-- Fonctionnalité 2
-- Fonctionnalité 3
+- Fonctionnalité1
+- Fonctionnalité2
+- Fonctionnalité3
 - ....
 
 ## Critères de validation
-- Text 1
-- Text 2
-- Text 3
+- Text1
+- Text2
+- Text3
 - .....
 
 ## Tâches
-- [ ] Tache 1
-- [ ] Tache 2
-- [ ] Tache 3
+- [ ] Tache1
+- [ ] Tache2
+- [ ] Tache3
 - [ ] ......
 
+l'utilisateur/trice

@@ -1,8 +1,11 @@
 
 Template Issue :
 
+NomDeLeFeature
+
 ## Description
-En tant qu'utilisateur/trice, je veux....
+En tant qu'utilisateur/trice, je veux ....
+En tant qu'administrateur/trice, je veux ....
 
 ## Fonctionnalités
 - Fonctionnalité1
@@ -22,7 +25,6 @@ En tant qu'utilisateur/trice, je veux....
 - [ ] Tache3
 - [ ] ......
 
-l'utilisateur/trice
 
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------

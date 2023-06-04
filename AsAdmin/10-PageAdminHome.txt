@@ -1,0 +1,19 @@
+create_admin_home_page
+
+## Description
+En tant qu'administrateur/trice, je veux pouvoir accéder à n'importe quelle page pour la modifier
+
+## Fonctionnalités
+- Avoir une barre de navigation
+- Avoir la liste des pages/section que je souhaite modifier
+- Pouvoir cliquer sur le nom des sections/pages et être redirigé(e) vers celle-ci
+
+## Critères de validation
+- Voir la barre de navigation
+- Voir la liste des pages/section
+- Pouvoir cliquer sur le nom des sections/pages et être redirigé(e) vers celle-ci
+
+## Tâches
+- [ ] Importer la barre de navigation
+- [ ] Récupérer la liste de la base de données et les lister
+- [ ] Lier redirection vers les pages/sections
