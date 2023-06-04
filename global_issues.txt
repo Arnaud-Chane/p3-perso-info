@@ -58,6 +58,7 @@ Listes :
 
 - Créer un component de parcours avec lien de redirection sur toutes les pages (avec impossibilité de choisir des étapes pas encore atteintes)
 
+- Créer un component card pour voir une photo d'un vin, son nom et une mini description
 
 
 

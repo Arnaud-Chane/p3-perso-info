@@ -1,0 +1,20 @@
+create_page_selection_vin
+
+## Description
+En tant qu'utilisateur/trice, je veux voir une selection de vins qui correspond à mes préférences
+
+## Fonctionnalités
+- Avoir une liste de vins sélectionée et filtrée en fonction des préférences de l'utilisateur/trice
+- Avoir la possibilité de cliquer sur les vins pour voir leur description individuelle
+
+## Critères de validation
+- Les vins de la liste doivent être filtrés en fonction des préférences de l'utilisateur/trice
+- Pouvoir cliquer sur les vins et être redirigé(e) vers page de description du vin
+- Avoir la possibilité de revenir vers des pages précédentes depuis le menu de navbar
+
+## Tâches
+- [ ] Importer component Navbar
+- [ ] Importer component card en liant à tous les vins préalabrement filtrés
+- [ ] Mettre en place un scroll vertical
+- [ ] Lier un évenement click sur les components card pour rediriger l'utilisateur/trice vers la page description du vin
+
