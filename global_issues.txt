@@ -67,7 +67,7 @@ Listes :
 // en vrac
 
 sur page Admin, fiche de dégustation, avoir possibilité de rajouter un slide
-
+Sur page User, conditions utilisation, faudra mettre les infos dans une fenêtre et c'est uniquement dans cette fenêtre où on pourra scroller
 
 
 
